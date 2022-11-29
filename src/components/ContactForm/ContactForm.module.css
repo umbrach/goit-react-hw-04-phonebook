@@ -1,0 +1,27 @@
+.form {
+  display: block;
+}
+
+.input {
+  margin: 10px;
+  border: 2px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+  outline: transparent;
+    height: 32px;
+
+}
+
+.input:focus {
+  border: 3px solid rgb(5, 91, 252);
+}
+
+.button {
+  background-color: #008bfd;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  height: 32px;
+  width: 100px;
+
+  font-family: "Montserrat";
+}
